@@ -1,0 +1,44 @@
+The Nobel Prize in Physics has been awarded to two researchers who helped build the foundations of the artificial intelligence that surrounds us today.
+
+American John Hopfield and Briton Geoffrey Hinton both worked on machine learning techniques that would go on to power products such as ChatGPT.
+
+But Wimbledon-born Professor Hinton is notable also for his opposition to those technologies. Last year, he resigned from Google after a decade so that he could freely warn about the “existential risk” posed by the technology.
+
+
+Speaking at the ceremony in Sweden, Prof Hinton said he was “flabbergasted”, adding: “I had no idea this would happen. I’m very surprised.”
+
+The prize did not make reference to those warnings, however, and instead was given to the two researchers “for foundational discoveries and inventions that enable machine learning with artificial neural networks”.
+
+RECOMMENDED
+
+‘Gerry McCann broke the secrecy code and ‘briefed’ me on what happened that night’
+
+Kate Middleton quietly shares new photo as King Charles mourns tragic death - live
+
+If you have a mouse, this game will keep you up all night. No Install. Play for free.
+Combat Siege
+|
+Sponsored
+
+Plastic Surgeon Reveals The 1 Thing Every Woman Should Be Using Instead Of Moisturiser
+New Skin Discovery
+|
+Sponsored
+Powered by Taboola
+“This year’s two Nobel Laureates in Physics have used tools from physics to develop methods that are the foundation of today’s powerful machine learning,” the panel wrote in a press release.
+
+“John Hopfield created an associative memory that can store and reconstruct images and other types of patterns in data. Geoffrey Hinton invented a method [the Boltzmann machine] that can autonomously find properties in data, and so perform tasks such as identifying specific elements in pictures.”
+
+The panel did reference the ongoing work on AI that has transformed the world in recent years. Describing Prof Hinton’s work on early machine learning, it said that he “has built upon this work, helping initiate the current explosive development of machine learning.”
+
+
+In a speech accepting the prize, Prof Hinton, who teaches at the University of Toronto, Canada, indicated he was proud of his work on artificial intelligence and would “do the same again”. But he feared that the consequences of his work could be “systems more intelligent than us that eventually take control”.
+
+Both researchers worked on early machine learning, the technique that underpins those artificial intelligence breakthroughs. It is inspired by the structure of the brain, but uses nodes in a computer rather than the neurons that underpin the brain.
+
+
+Those technologies are referred to as artificial neural networks. Both of the new Nobel laureates developed new networks that allowed for better manipulation of data.
+
+Profs Hopfield and Hinton equally share this year’s Nobel Prize for Physics.
+
+https://www.independent.co.uk/tech/john-hopfield-geoffrey-hinton-nobel-prize-ai-physics-b2625699.html

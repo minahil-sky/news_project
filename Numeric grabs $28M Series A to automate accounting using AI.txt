@@ -1,0 +1,19 @@
+Accountants typically dread month-end and quarter-end closings. That’s because finalizing financial records for a specific period is generally a manual, error-prone, and time-consuming endeavor. 
+In 2020, Parker Gilbert (pictured above, middle) was so fed up with the tedium of managing finance and accounting at an early-stage startup that he decided to co-found Numeric, an accounting software that automates certain parts of the book-closing process. And the introduction of generative AI several years later significantly enhanced Numeric’s capabilities, so much so that it’s now used by the accounting departments of companies like Brex, OpenAI, Plaid, and Wealthfront. 
+Over the last year, Numeric’s revenue has increased fourfold to the single-digit millions, and investors are suddenly flocking to back the company. Now, just five months after it raised a $10 million seed round from a slew of well-known investors, the company has raised a $28 million Series A led by Menlo Ventures, with participation from new investors IVP and Socii. Previous backers Founders Fund, Long Journey, 8VC, Friends & Family Capital, and Fifth Down also invested in this round.
+Numeric lets accounting teams shave days off their monthly book-closing process, Gilbert told TechCrunch. The company’s product achieves this by aggregating and reconciling data from various accounting systems and Excel spreadsheets. It then overlays that data with an AI agent, which looks for how each line item changed from the previous month. If the agent spots outliers or unexpected variations, it explains why the account has increased or decreased, saving accountants a lot of time they would otherwise spend documenting variance in accounts — a process known as flux analysis.
+Gilbert, the startup’s CEO, explained with an example: If the AI agent notices that Numeric’s legal expenses were much higher in October than in September, it would write an explanation along the lines of, “Your legal expenses went up this month because you paid Wilson Sonsini $X amount more for your funding.”
+The possibility of AI hallucinations in the flux analysis commentary is one of the first concerns to come to mind, but Gilbert stressed that’s typically not a problem — he said Numeric always provides links so accountants can check the AI agent’s work at any time.
+While the actual tie-out and calculations are not done by generative AI at the moment, Gilbert expects Numeric’s model to soon be capable of doing that accurately. “In terms of synthesizing large quantities of data, LLMs are incredibly good at this today, and I think are going to only increasingly get better,” he added.
+TechCrunch Disrupt 2024
+All Six Stage Agendas are Complete with Massive Invaluable Insights - AI, Fintech, Builders, Disrupt, SaaS and Space.
+Moscone West, San Francisco | October 28-30
+REGISTER NOW
+Croom Beatty, a partner at Menlo Ventures, said he has spent a lot of time looking for a company that is disrupting accounting software, and Numeric was one of the first startups in the category to pique his interest. 
+“Numeric’s moat is a lot deeper than a lot of areas we were looking at,” he said. “It marries complex workflow with complex data in a market that has not been well served by tech companies.”
+Beatty expects the company will be able to add other products in the future, such as financial planning and analysis capabilities — a market that Anaplan now dominates.
+Numeric competes with two accounting software companies: Publicly traded BlackLine and FloQast, an 11-year-old startup that was valued at $1.6 billion when it raised its Series E this April.
+As for why there aren’t other, new AI-powered entrants in the accounting software market, Beatty said what Numeric is doing is very complex and not easily replicable.
+
+https://techcrunch.com/2024/10/10/numeric-grabs-28m-series-a-for-automating-accounting-with-ai/
+

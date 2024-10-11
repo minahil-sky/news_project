@@ -1,0 +1,22 @@
+It was the banana that did it.
+Brian O’Kelley, who had recently sold his previous startup, ad platform AppNexus, to AT&T for a reported $1.6 billion, was watching a lecture through MIT during COVID as part of a yearlong course on supply chain management. “There was this one slide in a lecture about the carbon footprint of a banana, and it just blew my mind.”
+At the time, O’Kelley was running a metal commodities trading platform he founded, which focused on reducing carbon emissions that resulted from trading and transportation. “I wanted to do something in the real world, like I really wanted to have a real-world impact,” he told TechCrunch. “Ads just felt ephemeral.” After a short time, it was handling around a quarter of the copper coming into the U.S., he said. 
+But during that MIT course, O’Kelley realized that the bulk of the carbon footprint for metals like copper and aluminum largely came from the mining and smelting steps. “This optimization we could do, and all these cool things we could do, we really couldn’t fundamentally change it.
+“But I just had this light bulb. I was like, in the digital world, it’s the opposite.”
+He sketched out what a platform for tracking carbon in digital ads might look like. He was heading back to the ephemeral world of advertising, albeit with a different focus.
+O’Kelley spun off the commodities business and used the core supply chain tracking technology to found Scope3 in 2021. The pitch for the new business was that digital advertising as it exists today is an economic and environmental mess: Nearly a quarter of the money spent on programmatic ads is wasted, according to a study by the Association of National Advertisers. That money flows to intermediaries or fraud or ads that are displayed outside the bounds of the browser window. As a relatively new industry, O’Kelley said, “it’s very easy for money to get lost.”
+TechCrunch Disrupt 2024
+All Six Stage Agendas are Complete with Massive Invaluable Insights - AI, Fintech, Builders, Disrupt, SaaS and Space.
+Moscone West, San Francisco | October 28-30
+REGISTER NOW
+By rooting out those issues, Scope3 tells customers that not only will more of their money go to ads that people will actually see, but it’ll also reduce their carbon footprints because fewer ads means data centers use less power. To find that waste, and to identify how it drives carbon emissions, Scope3 gathered data and built models. 
+Then, earlier this year, O’Kelley went into the operating room for an unexpected heart surgery.
+While he was recovering, he started diving into AI. “I finally had time to understand AI,” he said. The technology is sweeping the advertising world as companies probe its use in digital ads and other media. 
+“I just had the realization that media and AI are intersecting, that people are using AI to generate ads, and they’re using it to generate web pages, and even search is now becoming AI generated,” O’Kelley said. “Like, actually this is our business.”
+As he started fleshing out the idea, he thought, “I can’t be the only person thinking about this.” So he booked an appointment with GV, one of Scope3’s existing investors. “My actual reason for talking to them was more competitive intelligence,” he said.
+During the meeting, he said, he heard about how founders were pitching AI companies or climate tech companies, but few if any that explored their intersection. 
+That meeting led to a new funding round for Scope3, the company exclusively told TechCrunch, with GV leading a $25 million round to help the startup move into AI. Other investors participated, including Aperiam Ventures, Craft Ventures, Room40 Ventures, Venrock, and Virgo Strategic Investments.
+The company is still gathering data and building models for the AI part of the business, but O’Kelley suspects the pitch to customers will be similar to the digital ad side. “We expect there to be a lot of alignment between economic cost and environmental cost,” he said.
+
+https://techcrunch.com/2024/10/10/scope3-starts-tracking-the-carbon-footprint-of-ai/
+

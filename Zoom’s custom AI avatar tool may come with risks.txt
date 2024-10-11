@@ -1,0 +1,23 @@
+Zoom wants to turn you into an AI-animated, photorealistic avatar — but not until sometime next year.
+The upcoming feature, announced today at Zoom’s annual dev conference, will translate a video clip that users record of themselves into a digital clone — complete with a head, upper arms, and shoulders. Users will be able to type a script of what they want the digital double to say, and Zoom will generate audio that syncs with the avatar’s lip movements.
+Smita Hashim, Zoom’s chief product officer, told TechCrunch the custom avatars were designed to help people chat “asynchronously” with colleagues in a “faster, more productive” way.
+“Avatars save users precious time and effort recording clips, and enable them to scale video creation,” Hashim said.
+They could also pose a deepfake risk, however.
+A number of companies have developed AI tech to digitally “clone” a person’s face and pair that clone with reasonably-natural-sounding synthetic speech. Tavus, for instance, helps brands create virtual personas for personalized video ads, and Microsoft last year launched a service that can generate convincing digital stand-ins for a person.
+But many of these tools implement specific, strict safeguards to protect against misuse. Tavus requires verbal consent statements, and Microsoft mandates that its customers obtain written permission and consent from any featured avatar talent.
+Zoom was a bit more vague about its safety measures.
+Pointing to Zoom’s usage policies prohibiting misuse, Hashim said the company is building “numerous safeguards” into its custom avatar feature, including “advanced authentication” and watermarking.
+“We will continue to review and add safeguards as needed in the future,” Hashim said. “We employ (…) technology to make it obvious when a clip is generated with an avatar, and (…) to help ensure the integrity of avatar-generated content.”
+Zoom custom avatars
+A mock-up of Zoom’s custom avatar feature. IMAGE CREDITS:ZOOM
+Zoom’s digital likenesses align with CEO Eric Yuan’s broader vision of creating AIs that can one day speak in Zoom meetings for you, answer emails, and take phone calls.
+But these likenesses come at a time when deepfakes are spreading like wildfire across social media, and making it harder to distinguish truth from disinformation.
+So far this year, deepfakes featuring President Joe Biden, Taylor Swift, and Vice President Kamala Harris have racked up millions of views and reshares. Most recently, fake generative AI images of destruction and human suffering flooded the web in the aftermath of Hurricane Helene.
+Deepfakes have also been used to target individuals — by impersonating loved ones, for example. Losses linked to impersonation scams topped $1 billion last year, according to the FTC.
+How exactly will Zoom prevent scammers from using its tool to generate videos of people saying things they didn’t say for malicious ends? It isn’t clear yet. A mock-up provided by the company shows a visible watermark in the upper-right-hand corner of a custom avatar video. But watermarks like these can be easily cropped out by screen-recording tools.
+We’re hoping to learn more closer to the first half of 2025, when Zoom plans to release custom avatars for Zoom Clips, its asynchronous video tool, as part of a $12 per-user, per-month premium add-on.
+Whatever steps Zoom does — or doesn’t — end up taking, there are ongoing regulatory efforts to attempt to beat back the deluge of deepfakes.
+In the absence of a law criminalizing deepfakes at the federal level in the U.S., more than 10 states have enacted statutes against AI-aided impersonation. California’s law — currently stalled — would be the first to empower judges to order the posters of deepfakes to take them down or potentially face monetary penalties.
+
+https://techcrunch.com/2024/10/09/zooms-custom-ai-avatar-tool-may-come-with-risks/
+

@@ -1,0 +1,31 @@
+Meta launches its AI chatbot in the UK on Facebook and Instagram
+The assistant, which has sparked privacy concerns, can also be accessed on £299 Ray-Ban Meta sunglasses
+Dan Milmo Global technology editor
+Wed 9 Oct 2024 16.57 BST
+Share
+Meta, the owner of Facebook and Instagram, has launched its artificial intelligence assistant in the UK, alongside AI-boosted sunglasses modelled by Mark Zuckerberg.
+
+Meta’s AI assistant, which can generate text and images, is now available on its social media platforms in the UK and Brazil, having already been launched in the US and Australia.
+
+Regulatory issues and product testing held up the UK launch, while Meta’s AI services remain unavailable in the EU due to the “unpredictable” regulatory environment.
+
+A woman wearing augmented-reality goggles, touching the 'screen' at the foreground of the image
+Wearable AI: will it put our smartphones out of fashion?
+Read more
+Facebook and Instagram users in the UK will now be able to access the Meta AI chatbot by tapping on an icon in their app or by buying a pair of £299 Ray-Ban Meta frames from a UK retailer and accessing its voice assistant.
+
+Zuckerberg, Meta’s co-founder, sported a pair of the Ray-Bans at a company event last month when he also announced that Meta AI would be able to respond to voice commands and use the voice of celebrities including Judi Dench, John Cena and Keegan-Michael Key. However, the celebrity voice assistant will not be available in the UK.
+
+Meta said the latest rollout, which also includes the Philippines, “will help people get answers to their questions, brainstorm content and bring their ideas to life in places where they can easily share the results with their local network and our broader global community”.
+
+A woman wearing an eyepiece touches a screen that says ‘Meta AI’.
+View image in fullscreen
+Meta said its AI product would help people get answers to questions. Photograph: Anadolu/Getty Images
+Meta’s AI products, powered by the company’s Llama 3.2 AI model, have been the focus of attempts by social media users to block the company from using their posts to train its AI tools. One viral post with the message “Goodbye Meta AI!” was shared by actors and sports stars – including James McAvoy and Tom Brady – before it emerged that the post gave no privacy or copyright protection.
+
+Instead, UK users who wish to stop Meta from using their Facebook and Instagram posts to train its AI models need to fill out an objection form that can be obtained in their apps’ privacy settings. However, users of Meta’s AI products cannot block their interactions with the AI tools – as opposed to their actual social media posts – from being used to train and finetune the Llama model.
+
+Last week Meta said it had built a new artificial intelligence model called Movie Gen that could create realistic video and audio clips in response to user prompts – including a surfing koala. However, like OpenAI’s Sora video model, Movie Gen is not yet publicly available.
+
+https://www.theguardian.com/technology/2024/oct/09/meta-launches-its-ai-chatbot-in-the-uk-on-facebook-and-instagram
+

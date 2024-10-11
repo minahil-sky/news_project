@@ -1,0 +1,69 @@
+Scientists have developed an electronic tongue capable of discerning between different tastes better than a human.
+
+A team from Penn State in the US claims the graphene-based device holds the potential to “revolutionise” the detection of chemical and environmental changes, which could be used in everything from medical diagnostics, to spotting when food has been spoiled.
+
+The new technology also offers unique insight into the “inner thoughts” of artificial intelligence, which has largely been an opaque field until now due to something referred to as the black box problem.
+
+
+The team were able to do this by reverse engineering how the neural network came to its final determination when identifying differences between various types of milk, coffee and fizzy drinks.
+
+This process gave the researchers “a glimpse into the neural network’s decision-making process”, which they claimed could lead to better AI safety and development.
+
+RECOMMENDED
+
+‘Gerry McCann broke the secrecy code and ‘briefed’ me on what happened that night’
+
+Kate Middleton quietly shares new photo as King Charles mourns tragic death - live
+
+London: £19.99 Will-Writing Service
+Legacy Wills & Estate Planning
+|
+Sponsored
+
+Exclusive Interviews: Nova Festival Survivors
+IGAA
+|
+Sponsored
+Powered by Taboola
+“We’re trying to make an artificial tongue, but the process of how we experience different foods involves more than just the tongue,” said Saptarshi Das, a professor of engineering science and mechanics at Penn State.
+
+“We have the tongue itself, consisting of taste receptors that interact with food species and send their information to the gustatory cortex — a biological neural network.”
+
+The neural network used by the electronic tongue was able to reach a tasting accuracy of more than 95 per cent when put against human-selected parameters.
+
+
+Using a method called Shapley additive explanations, the researchers could delve into the decision-making process of the neural network.
+
+Rather than assessing individual human-assigned parameters, the neural network considered the data it determined was most important for assessing different tastes.
+
+Advertisement
+
+
+
+ 
+Advertisement : 12 sec
+
+“We found that the network looked at more subtle characteristics in the data – things we, as humans, struggle to define properly,” Professor Das said.
+
+RECOMMENDED
+
+Graham Norton names celebrity who ‘wasn’t a great guest’ on chat show
+
+Top election data analyst says Trump’s odds of winning election have suddenly surged
+
+If you have a mouse, this game will keep you up all night. No Install. Play for free.
+Combat Siege
+|
+Sponsored
+
+Explore attractive offers on the Volvo XC40 mild hybrid
+Volvo Cars
+|
+Sponsored
+Powered by Taboola
+“And because the neural network considers the sensor characteristics holistically, it mitigates variations that might occur day-to-day. In terms of the milk, the neural network can determine the varying water content of the milk and, in that context, determine if any indicators of degradation are meaningful enough to be considered a food safety issue.”
+
+The research was detailed in a study, titled ‘Robust chemical analysis with graphene chemosensors and machine learning’, published in the journal Nature.
+
+https://www.independent.co.uk/tech/ai-electronic-tongue-robot-b2627246.html
+

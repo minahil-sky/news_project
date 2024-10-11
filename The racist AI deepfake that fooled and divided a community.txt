@@ -1,0 +1,71 @@
+The racist AI deepfake that fooled and divided a community
+Alfie Malone and  Kristen Griffith
+IMAGE SOURCE, GETTY/BBC
+Image caption,
+Community volunteer Alfie Malone and reporter Kristen Griffith both struggled with what to make of an offensive audio clip that turned out to be fake
+Marianna Spring
+BBC Disinformation and social media correspondent
+Published
+5 October 2024
+When an audio clip appeared to show a local school principal making derogatory comments, it went viral online, sparked death threats against the educator and sent ripples through a suburb outside the city of Baltimore. But it was soon exposed as a fake, manipulated by artificial intelligence - so why do people still believe it’s real?
+“I seriously don't understand why I have to constantly put up with these dumbasses here every day.”
+So began what appeared to be a long tirade from the principal of Pikesville High School, punctuated with racist, antisemitic and offensive tropes. It sounded like it had been secretly recorded.
+The speaker went on to bemoan “ungrateful black kids” and Jewish people in the community.
+The clip, first posted in January, went viral nationally. But it really struck a nerve in the peaceful, leafy suburb of Pikesville, which has large black and Jewish populations, and in the nearby city of Baltimore, Maryland. Principal Eric Eiswert was put on paid administrative leave pending an investigation.
+Alfie Malone, a black man who lives in nearby Baltimore, spotted other members of his community posting the clip and assumed it was real.
+“In the back of your mind you think this is probably the way people really actually feel about us,” Mr Malone said. “And then to hear that actually come across audio.”
+In an effort to corroborate what he was hearing, Mr Malone checked out other real recordings of Mr Eiswert on social media and they sounded the same.
+So the part-time postman, part-time podcaster hit the re-share button.
+US teacher accused of racist deepfake of principal
+Published
+26 April
+They were arrested for posting during the riots – will it change anything?
+Published
+27 September
+The clip started to gain traction across social media as more people spread it online. One of the most shared versions was well on its way to passing two million views within hours. Already, that’s around 60 times the entire population of Pikesville.
+But what those sharing the clip didn’t realise at the time was that another bombshell was about to drop: the clip was an AI-generated fake.
+For BBC Radio 4’s Why Do You Hate Me USA, I’ve been in Maryland investigating the impact this clip had on that town. It reads almost like a fable about the dangers AI poses, especially when local communities are targeted.
+Anatomy of an AI fakery
+When the clip landed on the desk of Kristen Griffith, an education reporter at the Baltimore Banner, she thought it was going be a relatively straightforward story of a teacher being exposed for making offensive remarks.
+But as is best-practice in journalism, Ms Griffith wanted to give the principal the chance to comment and tell his side of the story. So, she reached out to his union representative, who said not only did Mr Eiswert condemn the comments, but he didn’t make them.
+“He said right away, oh, we think this is fake… We believe it's AI,” she told the BBC. “I hadn't heard that angle” before.
+But when she published that explanation, her readers were not convinced. Far from raising questions about the clip’s veracity, it just fuelled backlash from people who thought the allegation of fakery was just an excuse or an attempt to evade accountability.
+It was at this point that local police started investigating the case. Staff at Pikesville High told them they were feeling unsafe because of all the attention, and they were concerned that the school was bugged with recording devices.
+Principal Eiswert’s reputation had taken a serious hit too. Security was stepped up around both him and the school. He became a target for social media hate and threats. I found dozens of abusive messages taking aim at him on social media.
+Dr Myriam Rogers (centre), superintendent of Baltimore County Public Schools, and Police Chief Robert McCullough (right) speak at a press conference
+IMAGE SOURCE, GETTY IMAGES
+Image caption,
+When police and the school board superintendent announced a Pikesville High faculty member had faked the audio, it sent shockwaves through the community
+Then in April, Baltimore Police Chief Robert McCullough confirmed they now had “conclusive evidence that the recording was not authentic”.
+And they believed they knew who made the fake.
+Police charged 31-year-old Dazhon Darien, the school’s athletics director, with several counts related to the fake video. Charges included theft, retaliating against a witness and stalking.
+He was arrested at the airport, where police say he was planning to fly to Houston, Texas.
+Police say that Mr Darien had been under investigation by Principal Eiswert over an alleged theft of $1,916 (£1,460) from the school. They also allege there had been “work performance challenges” and his contract was likely not to be renewed.
+Their theory was that by creating the deepfake recording, he hoped to discredit the principal before he could be fired.
+Investigators say they traced an email used to send the original video to a server connected to Mr Darien, and allege that he used Baltimore County Public Schools' computer network to access AI tools. He is due to stand trial in December 2024.
+Mr Darien’s legal representatives did not respond to requests for comment.
+Baltimore County Schools Superintendent Myriam Rogers had previously said it was “a very difficult time” for the school community, the principal and his family.
+Representatives for Pikesville High School and Mr Eiswert did not respond to my requests for further comment.
+Why did people believe the video?
+Because the clip was audio-only, it meant there were no visual giveaways, like robotic movements that normally reveal AI manipulation. It also mentioned jargon, like “grade-level expectations”, and other details, like staff names, that only people close to the school would know.
+When you listen carefully, though, there are clear edits between sentences - and the voice, while similar to the principal, sounds quite monotonous. Artificial intelligence can use several minutes of a real recording - from, say, your favourite actor in a film or a presidential candidate giving a speech - to then generate a clip that makes it sound like they said something they never did.
+But perhaps the biggest reason why people believed the video was real was because it felt true, Mr Malone told me.
+It tapped into his own experiences of racism as a black man living in Baltimore.
+When Mr Malone heard the principal describe black students as lazy, it immediately reminded him of slurs and discrimination he’d encountered at school and work.
+Months later, the effects of the fake audio clip are still felt in Pikesville. Mr Eiswert has moved jobs and is working in another school. And even though some community members told me they now accept the video is fake, the damage is done.
+“This is a Jewish neighbourhood and to say something that's so inflammatory about the community was upsetting,” a woman called Sharon told me as she packed her grandchild’s pram into a car in a house opposite the high school last August.
+For several minutes, Sharon talked to me as though the clip was real.
+“I think when people say things like that, other people join in that and it makes me more fearful.”
+When her husband chimed in from the car, reminding her the clip was actually fake, she admitted she did “find out later it was AI-generated”. But she said she was still angry about it.
+Pikesville High School
+Image caption,
+The clip continues to affect the local community in Pikesville and those connected to the high school
+I found that for people like Sharon, who had believed the clip was real, even for a short time, it stayed with them - especially when the message echoed genuine experiences of racism and discrimination. It reminded me of something I hear time and time again while investigating misinformation and conspiracy theories: “Well, even if it’s not real, it’s what I think they think.”
+All the major social media companies say they have policies to label, remove and limit the spread of AI-generated posts. But that action only happens when it can be proven a clip is fake. By that point, it could have already reached millions of people.
+Alfie Malone said even earlier that day, he spoke to a friend who still had no idea the clip was AI-generated.
+“I honestly believe that a lot of people here in this city don't really know that that's not true,” he said.
+He said he felt sorry that Mr Eiswert, the school principal, was wrongly accused of making the comments. He is also worried the episode has undermined real experiences of racism.
+He said he’d think twice before re-sharing a clip like this again.
+“I've been burnt by the fire once. I'm not touching the stove again.”
+
+https://www.bbc.co.uk/news/articles/ckg9k5dv1zdo
